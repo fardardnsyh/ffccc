@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.*
+
+# npm package lock
+package-lock.json
+
+# Build output
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
+.cache/
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# NPM package debugging
+.npm/
+
+# Clerk files
+clerk.json
+
+# Other sensitive files
+*.pem
+*.key
+*.crt
